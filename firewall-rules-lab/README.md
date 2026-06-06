@@ -14,8 +14,9 @@ Port: 80 (HTTP)
 
 Action: DROP
 
-##Screenshot
-![Firewall Rule Demo]("https://github.com/user-attachments/assets/8f97d3e9-aa3b-496c-b432-35ccc13344d8")
+## Screenshot
+
+![Firewall Rule Demo](https://github.com/user-attachments/assets/8f97d3e9-aa3b-496c-b432-35ccc13344d8)
 
 
 ## Result
