@@ -31,6 +31,3 @@ Traffic from 198.51.100.34 to 203.0.110.1 on port 80 was blocked by the firewall
 - Access control
 - Traffic blocking using DROP rules
 
-## Screenshot
-
-See firewall-rule-demo.png
